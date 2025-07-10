@@ -38,3 +38,5 @@ To make assets easier to find and identify, they must have a _suffix_ indicating
 - Animator Controller: __ac_ (Player_ac)
 - Visual Effect: __vfx_ (DirtParticle_vfx)
 - Shader: __shader_ (Water_shader)
+
+Unity Version: 2023.2.20f1
